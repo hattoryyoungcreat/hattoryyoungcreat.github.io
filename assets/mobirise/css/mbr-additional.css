@@ -880,7 +880,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s1cfaxZrxo button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1371,7 +1371,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s1cfaxZrxo button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1820,7 +1820,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s1cfaxZrxo button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2057,6 +2057,39 @@ section.lazy-placeholder:after {
 .cid-s1cfaxZrxo .nav-link:hover,
 .cid-s1cfaxZrxo .dropdown-item:hover {
   color: #232323 !important;
+}
+.cid-s1HCYqMLhS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s1HCYqMLhS h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s1HCYqMLhS p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s1HCYqMLhS .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s1HCYqMLhS .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s1HCYqMLhS .mbr-text {
+  color: #767676;
+}
+.cid-s1HCYqMLhS .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s1HCYqMLhS .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
 }
 .cid-s1wBLrj2qU {
   padding-top: 90px;
@@ -2318,7 +2351,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s1cfaxZrxo button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2664,12 +2697,18 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-s1wvdiDBRg .mbr-text {
-  color: #767676;
+  color: #232323;
   margin: 0;
   padding-top: 1.5rem;
 }
 .cid-s1wvdiDBRg div.b {
   padding-top: 2rem;
+}
+.cid-s1wvdiDBRg H2 {
+  color: #232323;
+}
+.cid-s1wvdiDBRg H5 {
+  color: #232323;
 }
 .cid-s1vWzjfjLy .navbar {
   padding: .5rem 0;
@@ -2841,7 +2880,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s1vWzjfjLy button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3359,7 +3398,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-s1H28W9Mdn button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
